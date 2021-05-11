@@ -18,7 +18,7 @@
      ],
 	  'resultComments' :  
 	  {
-		    perfect: '100% Great Job!!',
+		    perfect: 'Great Job!!',
 			 excellent: 'Outstanding!',
 			 good: 'Acceptable, requires additional training.',
 			 average: 'Your performance is borderline.',
