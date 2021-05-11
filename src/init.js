@@ -11,8 +11,8 @@
 			  'correctAnswer': 2
        },
 		 {
-           'question': 'Meh stands for..',
-           'answers': ['Eh','/Sigh','What?','Whatever'],
+           'question': 'What is SSH',
+           'answers': ['NULL','Sampling Shell','a bash command','secure shell'],
 			  'correctAnswer': 4
        }
      ],
