@@ -18,13 +18,13 @@
      ],
 	  'resultComments' :  
 	  {
-		    perfect: 'Albus, is that you?',
-			 excellent: 'Outstanding, noble sir!',
-			 good: 'Exceeds expectations!',
-			 average: 'Acceptable. For a muggle.',
-			 bad: 'Well, that was poor.',
-			 poor: 'Dreadful!',
-			 worst: 'For shame, troll!'
+		    perfect: '100% Great Job!!',
+			 excellent: 'Outstanding!',
+			 good: 'Acceptable, requires additional training.',
+			 average: 'Your performance is borderline.',
+			 bad: 'Your performance is bad requires review and proper training.',
+			 poor: 'Your result is unacceptable',
+			 worst: 'Not applicable fo further evaluations'
 	  }
 
  };
