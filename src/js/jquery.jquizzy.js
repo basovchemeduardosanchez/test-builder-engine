@@ -1,8 +1,7 @@
-﻿/**
+﻿
+ /**
  * --------------------------------------------------------------------
- * jQuizzy - jQuery plugin for creating quizzes
- * by Siddharth S - www.ssiddharth.com
- * Copyright (c) 2011 Siddharth
+ * Test Builder 
  * Version: 1.5
  * --------------------------------------------------------------------
  **/
